@@ -67,7 +67,5 @@ public class StudentController {
 		return "404 Couldn't find the student";	
 	}
 	
-	//find the students whose age is between 20 and 23
-	//sort the students by their GPA
-	//Create CRUD operations for students
+	
 }
